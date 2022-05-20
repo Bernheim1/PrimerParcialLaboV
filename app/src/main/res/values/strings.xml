@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BernheimPP</string>
+    <string name="txtUsuario">User:</string>
+    <string name="txtContrasenia">Password:</string>
+    <string name="txtContrasenia2">Repeat password:</string>
+    <string name="txtTipo">Type:</string>
+    <string name="txtAdministradorRb">Administrator</string>
+    <string name="txtUsuarioRb">User</string>
+    <string name="txtGuardar">Save</string>
+</resources>

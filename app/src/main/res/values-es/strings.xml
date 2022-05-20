@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BernheimPP</string>
+    <string name="txtUsuario">Usuario:</string>
+    <string name="txtContrasenia">Contraseña:</string>
+    <string name="txtContrasenia2">Repita la contraseña:</string>
+    <string name="txtTipo">Tipo:</string>
+    <string name="txtAdministradorRb">Administrador</string>
+    <string name="txtUsuarioRb">Usuario</string>
+    <string name="txtGuardar">Guardar</string>
+</resources>
